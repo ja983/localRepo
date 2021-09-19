@@ -1,0 +1,5 @@
+f=open("intwrite.py","w")
+f.writelines("Jayatheertha")
+f.close()
+f=open("intwrite.py","r")
+print(f.read())

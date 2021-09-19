@@ -1,0 +1,15 @@
+1. Write any 5 Properties of List.
+
+Ans:-1)Lists are ordered.
+     2)Lists can contain any arbitrary objects.
+     3)List elements can be accessed by index.
+     4)Lists are mutable.
+     5)Lists are dynamic.
+
+2.Write any 5 methods of List.
+
+Ans:-1)append():Adds a single to the existing list.Syntax:list.append(item)
+     2)extend():adds items to list.Syntax:list.extend(items)
+     3)insert():inserts the element to the list at the given index.Syntax:list.insert(index,item)
+     4)remove():searches for the given element in the list & removes the first matching element.Syntax:list.remove(element)
+     5)pop():removes & returns the element at the given index from the list.Syntax:list.pop(index)
